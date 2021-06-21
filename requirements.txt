@@ -1,1 +1,3 @@
 flask
+werkzeug<1.0
+jsonify
